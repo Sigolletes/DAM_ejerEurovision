@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<tabla>
+<tabla  xml:lang="es">
     <pais>
         <head>País</head>
         <cel1>Alemania</cel1>
@@ -11,14 +11,16 @@
     </pais>
     <titulo>
         <head>Título</head>
-        <original><head>Original</head>
+        <original>
+            <head>Original</head>
             <cel1>Rockstars</cel1>
             <cel2>SloMo</cel2>
             <cel3>Jezebel</cel3>
             <cel4>Brividi</cel4>
             <cel5>Stefania</cel5>
         </original>
-        <castellano><head>Castellano</head>
+        <castellano>
+            <head>Castellano</head>
             <cel1>Estrellas de rock</cel1>
             <cel2>Cámara lenta</cel2>
             <cel3>Jezebel</cel3>
@@ -37,8 +39,8 @@
     <idioma>
         <head>Idioma</head>
         <cel1>· Inglés</cel1>
-        <cel2><![CDATA[ · Español 
-        · Inglés ]]></cel2>
+        <cel2><![CDATA[· Español 
+        · Inglés]]></cel2>
         <cel3>· Inglés</cel3>
         <cel4>· Italiano</cel4>
         <cel5>· Ucraniano</cel5>
